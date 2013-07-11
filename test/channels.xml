@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "http://www.kazer.org/xmltv.dtd">
+<tv generator-info-name="KaZeR's XMLTV" generator-info-url="http://www.kazer.org">
+<!-- offset : 1, DST : 1 -> +0200 -->
+<channel id="ART1.kazer.org">
+<display-name>ARTE</display-name>
+</channel>
+<channel id="EUR2.kazer.org">
+<display-name>D17</display-name>
+</channel>
+</tv>
