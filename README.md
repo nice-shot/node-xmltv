@@ -1,13 +1,16 @@
 # xmltv
 
-A xmltv reader
+A xmltv reader based on sax.
 
 ## Getting Started
-Install the module with: `npm install xmltv`
+Install the module with: `npm install xmltv` It's not yet in npm though !
 
 ```javascript
 var xmltv = require('xmltv');
-xmltv.awesome(); // "awesome"
+xmltv.on("programme", function(programme) {
+  //Do something with programmes one by one as they are parsed
+});
+xmltv.parseFile("tvguide.xml");
 ```
 
 ## Documentation
