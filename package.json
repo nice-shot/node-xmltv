@@ -42,6 +42,7 @@
     "grunt-tape": "0.0.2"
   },
   "dependencies": {
+    "moment": "^2.10.3",
     "sax": "^1.1.1"
   }
 }
