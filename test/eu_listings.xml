@@ -1,0 +1,608 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv>
+  <channel id="3sat.de">
+    <display-name lang="de">3sat</display-name>
+    
+    <icon src="http://xmltv.spaetfruehstuecken.org/chanlogos/3sat.de.png"/>
+  </channel>
+  <channel id="amerika.dw.de">
+    <display-name lang="de">DW (Amerika)</display-name>
+    
+    <icon src="http://xmltv.spaetfruehstuecken.org/chanlogos/amerika.dw.de.png"/>
+  </channel>
+  <programme start="20150603025000 +0200" stop="20150603044500 +0200" channel="3sat.de">
+    <title lang="de">Dünkirchen, 2. Juni 1940</title>
+    <desc lang="de">Dünkirchen, Juni 1940: Sergent Julien Maillat und eine Gruppe französischer Soldaten warten darauf, zusammen mit den Männern des britischen Expeditionskorps nach England gebracht zu werden. Die deutsche Luftwaffe fliegt ständig Einsätze, die viele Opfer fordern. Die Briten evakuieren zunächst nur ihre Leute. Als es Maillat mit Hilfe eines britischen Offiziers schafft, an Bord eines Schiffs zu kommen, wird der Dampfer von deutschen Bomben getroffen. Maillat flüchtet wieder an Land, und er wagt sich zurück in die Stadt, die bereits unter deutschem Artilleriebeschuss liegt und auch aus der Luft bombardiert wird. Im Bombenhagel trifft er die couragierte junge Jeanne, die sich einredet, ihr Elternhaus werde das Kriegsinferno überstehen, wenn sie darin aushält. Maillat rettet sie vor zwei Kameraden, die in das Haus eingedrungen sind und sie vergewaltigen wollen. Ihm bleibt nichts anderes übrig, als die beiden zu erschießen. Nicht nur das belastet ihn fortan, auch der Gedanke, dass er die junge Frau danach allein zurückgelassen hat, ist ihm unerträglich. Der Spielfilm "Dünkirchen, 2. Juni 1940" schildert ein dramatisches Kapitel des Zweiten Weltkriegs, die Evakuierung alliierter Truppen aus Nordfrankreich. Damals wurde vom 27. Mai bis zum 4. Juni 1940 das Gros der britisch-französischen Nordarmeen, rund 338.000 Mann, darunter 123.000 Franzosen, unter massiver deutscher Bedrohung nach Großbritannien eingeschifft. Regisseur Henri Verneuil gelang es höchst eindrucksvoll, in diesem aufwendigen Film die militärische Seite der schwierigen Rettungsaktion mit der Darstellung individueller Schicksale zu verknüpfen.</desc>
+    <credits>
+      <director>Henri Verneuil</director>
+      <actor role="Julien Maillat">Jean-Paul Belmondo</actor>
+      <actor role="Jeanne">Catherine Spaak</actor>
+      <actor role="Pinot">Georges Géret</actor>
+      <actor role="Pierson">Jean-Pierre Marielle</actor>
+      <actor role="Alexandre">François Périer</actor>
+      <actor role="Dhéry">Pierre Mondy</actor>
+      <actor role="le capitaine Robinson">Ronald Howard</actor>
+      <actor role="le caporal-chef réceptionniste">Dominique Zardi</actor>
+      <actor>la femme d'Atkins)</actor>
+      <actor role="Paul">Christian Barbier</actor>
+      <actor role="le gouape">Jean-Paul Roussillon</actor>
+      <actor role="le soldat qui boit">Paul Préboist</actor>
+      <actor role="un croque-mort">Pierre Vernier</actor>
+    </credits>
+    <date>1964</date>
+    <category lang="en">movie</category>
+    <url>http://www.themoviedb.org/movie/75525</url>
+    <episode-num system="themoviedb.org">movie/75525</episode-num>
+    <audio>
+      <stereo>mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20150603044500 +0200" stop="20150603053000 +0200" channel="3sat.de">
+    <title lang="de">Im Herzen der Bretagne</title>
+    <desc lang="de">Entlang des Nantes-Brest-Kanals im Herzen der Bretagne leben interessante Menschen, die ihre regionalen Eigenheiten pflegen - vom Steinmetz bis zum bretonischen Liedermacher. Der Kanal verbindet die Loire bei Nantes mit der Rade von Brest. Er ist umgeben von mystischen Wäldern, blühenden Buchweizenfeldern und malerischen Dörfern und wurde auf Initiative von Kaiser Napoleon gebaut und wird noch heute von historischen Segelschiffen bereist. An seinen Ufern liegen die Trappisten-Abtei Timadeuc, deren Mönche Käse herstellen, das Schloss von Josselin und der Märchenwald Broceliande, in dem die Legenden um Fee Viviane und Lancelot spielen. An seinen Ufern wohnen interessante Menschen, so zum Beispiel ein Imker, der heute Buchweizenbier braut; ein Steinmetz, der mit Schiefer arbeitet; Musiker, die bretonische Lieder über den Kanal spielen und eine Radioreporterin, die die bretonische Sprache retten will.</desc>
+    <credits>
+      <producer>Susanne Gebhardt</producer>
+      <producer>Norbert Bandel</producer>
+    </credits>
+    <category lang="en">movie</category>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20150603053000 +0200" stop="20150603062000 +0200" channel="3sat.de">
+    <title lang="de">Lissabon, da will ich hin!</title>
+    <desc lang="de">Michael Friemel erkundet die portugiesische Hauptstadt zusammen mit Silvia Reis. Die quirlige Frau produziert Werbe-Spots und kennt die Stadt und ihre vielen Gesichter wie kein Zweiter. Die Werbeunternehmen kommen zum Drehen nach Lissabon wegen des besonderen Lichts und der vielen Sonnenstunden. Sie kann aussehen wie Lissabon mit dem berühmten "morbid-melancholischen Charme", aber auch wie Miami, San Francisco, Rio oder Dubai. Wer einen Städtetrip in die portugiesische Metropole macht, will zwar auch Neues erfahren, aber ebenso die großen Sehenswürdigkeiten erleben. Die großen Plätze Rossio und Commercio zum Beispiel, das Castelo Sao Jorge, die Altstadt Alfama mit ihren verwinkelten Gassen, den weithin sichtbaren Fahrstuhl Santa Justa, der die Unterstadt mit der Oberstadt verbindet, die alten Straßenbahnen und die vielen Aussichtsplätze. Auch Michael will sich natürlich diesen Teil Lissabons nicht entgehen lassen. Er ist aber vor allem neugierig auf all das, was neu ist: Das interaktive Museum Lisboa Story Center, in dem Besucher die wahrhaft bewegte Lissabonner Geschichte nacherleben können. Den Mercado de Ribeira, die derzeit angesagteste Location in Lissabon. Kein Wunder: neben der traditionellen Markthalle haben rund 30 der besten Restaurants und Gourmettempel der Stadt kleine Stände eröffnet. Dort kann man an einem einzigen Ort Kreationen der besten Köche der Stadt und unzählige Spezialitäten entdecken. Außer Silvia aus der Filmszene trifft Michael noch viele andere interessante Menschen. Vanessa zum Beispiel. Die junge Frau hatte ihren gut bezahlten sicheren Job in einer Marketing-Agentur satt und hat eine Azulejo-Manufaktur eröffnet. Kunstvoll bemalte Fliesen sind in Portugal allgegenwärtig, sind nationales Kulturerbe. Nun kreiert Vanessa ihre ganz eigenen Azulejos - und Michael malt mit. Auch Isabel Costa hat ihren Posten als Vertriebsleiterin der größten Supermarktkette Portugals an den Nagel gehängt. Sie und ihr Mann haben ein fast ausgestorbenes Handwerk wiederbelebt: die Fabrikation von Loden. Aber nicht der übliche grüne, sondern in leuchtenden Farben und von besonderer Qualität. Michael trifft auch Susanna Felicidade. Sie hat aus einer alten Apotheke ein Restaurant gemacht, in dem die Suppe in Spritzen serviert und Paracetamol als Cocktail verabreicht wird. Catarina Portas schließlich betreibt in einer ehemaligen Fliesenfabrik einen Laden, in dem man ausschließlich Produkte "made in Portugal" kaufen kann. Von Tee von den Azoren über traditionelle Seife und Düfte bis zu unverwechselbarem Porzellan. Für Urlauber auf Souvenirjagd eine große Wundertüte.</desc>
+    <credits>
+      <producer>Kerstin Woldt</producer>
+    </credits>
+    <category lang="en">movie</category>
+  </programme>
+  <programme start="20150603062000 +0200" stop="20150603070000 +0200" channel="3sat.de">
+    <title lang="de">Kulturzeit</title>
+    <sub-title lang="de">Die gleißende Welt   Siri Hustvedts Roman über den entgleisten Kunstbetrieb</sub-title>
+    <desc lang="de">"Kulturzeit" ist das werktägliche Kulturmagazin von 3sat. "Kulturzeit" mischt sich in kulturelle und gesellschaftspolitische Fragen ein. Das Magazin bietet ergänzende Hintergrundinformationen, Porträts und Gespräche zu aktuellen und brisanten Fragen.</desc>
+    <credits>
+      <presenter>Andrea Meier</presenter>
+    </credits>
+    <category lang="en">series</category>
+  </programme>
+  <programme start="20150603070000 +0200" stop="20150603073000 +0200" channel="3sat.de">
+    <title lang="de">nano</title>
+    <desc lang="de">Das 3sat-Wissenschaftsmagazin berichtet werktäglich ausführlich, verständlich und aktuell über Technik, Medizin, Wissenschaft und Forschung. "nano" macht Zukunftsvisionen sichtbar und erfahrbar. Durch eine unterhaltsame, spannende und informative Mischung von Wissenschaftsfilmen macht "nano" seine Zuschauer fit für die Welt von morgen. "nano" ist ein aktuelles Magazin mit wiederkehrenden Rubriken wie das "nano-Rätsel". "nano" enthält Studio- und Schaltgespräche. Regelmäßig werden Schwerpunkte gesetzt und unter einem anderen Aspekt beleuchtet.</desc>
+    <credits>
+      <presenter>Kristina zur Mühlen</presenter>
+    </credits>
+  </programme>
+  <programme start="20150603073000 +0200" stop="20150603090000 +0200" channel="3sat.de">
+    <title lang="de">Alpenpanorama</title>
+    <desc lang="de">"Alpenpanorama" zeigt über zahlreiche Web- und Panoramakameras täglich Livebilder aus ausgewählten Urlaubsorten. Die Sendung informiert auch über Temperatur- und Wetterbedingungen vor Ort.</desc>
+  </programme>
+  <programme start="20150603090000 +0200" stop="20150603090500 +0200" channel="3sat.de">
+    <title lang="de">ZIB</title>
+    <desc lang="de">Die Kurzausgaben der österreichischen Nachrichtensendung "Zeit im Bild" (ZIB) liefern neben klassischen Nachrichten Informationen über Entwicklungen auf den Finanzmärkten und Expertenanalysen. Ein Laufband informiert über die aktuellen Börsenkurse.</desc>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150603090500 +0200" stop="20150603094500 +0200" channel="3sat.de">
+    <title lang="de">Kulturzeit</title>
+    <sub-title lang="de">Die gleißende Welt   Siri Hustvedts Roman über den entgleisten Kunstbetrieb</sub-title>
+    <desc lang="de">"Kulturzeit" ist das werktägliche Kulturmagazin von 3sat. "Kulturzeit" mischt sich in kulturelle und gesellschaftspolitische Fragen ein. Das Magazin bietet ergänzende Hintergrundinformationen, Porträts und Gespräche zu aktuellen und brisanten Fragen.</desc>
+    <credits>
+      <presenter>Andrea Meier</presenter>
+    </credits>
+    <category lang="en">series</category>
+  </programme>
+  <programme start="20150603094500 +0200" stop="20150603101500 +0200" channel="3sat.de">
+    <title lang="de">nano</title>
+    <desc lang="de">Das 3sat-Wissenschaftsmagazin berichtet werktäglich ausführlich, verständlich und aktuell über Technik, Medizin, Wissenschaft und Forschung. "nano" macht Zukunftsvisionen sichtbar und erfahrbar. Durch eine unterhaltsame, spannende und informative Mischung von Wissenschaftsfilmen macht "nano" seine Zuschauer fit für die Welt von morgen. "nano" ist ein aktuelles Magazin mit wiederkehrenden Rubriken wie das "nano-Rätsel". "nano" enthält Studio- und Schaltgespräche. Regelmäßig werden Schwerpunkte gesetzt und unter einem anderen Aspekt beleuchtet.</desc>
+    <credits>
+      <presenter>Kristina zur Mühlen</presenter>
+    </credits>
+  </programme>
+  <programme start="20150603101500 +0200" stop="20150603113000 +0200" channel="3sat.de">
+    <title lang="de">Markus Lanz</title>
+    <desc lang="de">Gesine Schwan Politikwissenschaftlerin Ann Sophie Sängerin Sebastian Pufpaff Kabarettist Prof. Michael Tsokos Rechtsmediziner Dr. Saskia Guddat Rechtsmedizinerin</desc>
+    <category lang="en">tvshow</category>
+    <category lang="en">Talk</category>
+  </programme>
+  <programme start="20150603113000 +0200" stop="20150603123000 +0200" channel="3sat.de">
+    <title lang="de">Vis-à-vis: Adriana Altaras</title>
+    <desc lang="de">Frank A. Meyer spricht mit der Theaterregisseurin und Schriftstellerin Adriana Altaras über die aufkeimende Angst als Jüdin in Deutschland, mit Bezug zu ihrem neusten Buch "Doitscha". Darin beschreibt sie ihren Alltag als jüdische Mutter und ihr Leben als Repräsentantin der jüdischen Gemeinschaft in Deutschland. Auf die Attentate von Paris und Kopenhagen antwortet sie mit einem Aufruf zum Mut. Auf ihrer To-Do Liste steht: Keine Angst haben! Das ist für sie nach den Anschlägen in Paris und Kopenhagen keine Selbstverständlichkeit mehr, sondern eine Kampfansage. "Ich verdränge die aufsteigenden Ängste zugunsten des Mutes", schreibt sie. Adriana Alatras hat ihre jüdischen Wurzeln stets betont und ist in den Medien immer wieder als Repräsentantin der jüdischen Gemeinschaft in Deutschland in Erscheinung getreten. In der Frankfurter Paulskirche hielt sie eine vielbeachtete Rede zur Pogromnacht vom November 1938. Wahres Gedenken, so Altaras, müsse im Konkreten liegen, im alltäglichen und konstruktiven Zusammenleben von Juden und Nichtjuden in Deutschland. In ihrem jüngsten, autobiografischen Buch "Doitscha" zeichnet sie ihre Erfahrungen als Mutter und Jüdin nach, die ihre Religion aktiv vertritt. Ihr erstes Buch, das die Geschichte ihrer Familie, das Verlassen der jugoslawischen Heimat und die Ankunft in Deutschland erzählt, wurde 2014 verfilmt.</desc>
+    <category lang="en">Talk</category>
+  </programme>
+  <programme start="20150603123000 +0200" stop="20150603130000 +0200" channel="3sat.de">
+    <title lang="de">Österreich-Bild</title>
+    <sub-title lang="de">Bienen - nicht nur süßer Honig</sub-title>
+    <desc lang="de">Seit etwa 6.000 Jahren werden Honigbienen von Menschen gehalten und dienen als Honiglieferanten. In den letzten Jahren macht das Bienensterben den Imkern weltweit Sorgen. Der Honigertrag geht zurück, und die Ursachen müssen bekämpft werden - Milben und schädliche Spritzmittel. Da die Bestäubung der Blüten nicht mehr garantiert ist, wird sie in manchen Ländern von Hand mit Wattestäbchen vorgenommen.</desc>
+    <credits>
+      <producer>Erich Pröll</producer>
+    </credits>
+    <category lang="en">movie</category>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20150603130000 +0200" stop="20150603132000 +0200" channel="3sat.de">
+    <title lang="de">ZIB</title>
+    <desc lang="de">Die Kurzausgaben der österreichischen Nachrichtensendung "Zeit im Bild" (ZIB) liefern neben klassischen Nachrichten Informationen über Entwicklungen auf den Finanzmärkten und Expertenanalysen. Ein Laufband informiert über die aktuellen Börsenkurse.</desc>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150603132000 +0200" stop="20150603135000 +0200" channel="3sat.de">
+    <title lang="de">Mustangs - lebende Legenden</title>
+    <desc lang="de">Zur amerikanischen Legende gehören Mustangs. Die wilden Pferde stehen für "the spirit of wild west", ein Symbol für Freiheit, Schnelligkeit, Mut und Ausdauer. Ursprünglich haben Europäer die Tiere vor rund 500 Jahren in die Staaten gebracht. Erst kamen sie im Gefolge von Columbus und den Konquistadoren, später mit den europäischen Einwanderern. Viele sind entlaufen und haben sich zu Herden weitervermehrt. Diese haben sich auf dem ganzen amerikanischen Kontinent rasch ausgebreitet. Noch heute gibt es wilde Mustangs. Einige Tausend der alljährlich beim "round up" gefangenen Jungmustangs werden gezähmt, ausgebildet und auf den Ranches als Cowboypferde geschätzt. Kein frisch eingefangener Mustang hat bisher die USA verlassen. Doch dem Naturfilmer Erich Pröll ist es nach jahrelangen Bemühungen gelungen, drei Mustangs zu erwerben, die er als erster nach Europa bringen darf, nachdem er sie ein Jahr lang in den USA trainieren muss.</desc>
+    <credits>
+      <producer>Erich Pröll</producer>
+    </credits>
+    <category lang="en">movie</category>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20150603135000 +0200" stop="20150603143000 +0200" channel="3sat.de">
+    <title lang="de">Die Rückkehr bedrohter Tierarten</title>
+    <sub-title lang="de">Der Rosaflamingo</sub-title>
+    <desc lang="de">Zum Nisten benötigt der europäische Rosaflamingo Brackwasser und kleine, unberührte Inseln. Schon Ende der 1960er Jahre nisteten keine Flamingos mehr in der Camargue in Südfrankfreich. Da die Wasserflächen in den 1960er Jahren durch die Trockenlegung und Bebauung der küstennahen Feuchtgebiete immer knapper wurden, war auch die Tierart selbst bedroht. Um den Rosaflamingo zu retten, musste zunächst sein Lebensraum geschützt werden. Das Forschungszentrum Tour du Valat in der Camargue setzt sich für den Erhalt der Feuchtgebiete im Mittelmeerraum ein. Durch den Bau einer künstlichen Nistinsel in einem streng geschützten Gebiet konnte die Rückkehr der Flamingos erreicht werden. Seitdem stieg die Flamingo-Population im mediterranen Raum rapide an. Denn die Initiative der Forscher von Tour du Valat hat Schule gemacht, und mittlerweile gibt es bereits ein ganzes Netzwerk von Schutzorganisationen. Die beiden weiteren Teile der Dokumentationsreihe "Die Rückkehr bedrohter Tierarten" zeigt 3sat im Anschluss ab 21.00 Uhr.</desc>
+    <credits>
+      <producer>Laurent Charbonnier</producer>
+    </credits>
+    <category lang="en">series</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">. . 0/3</episode-num>
+  </programme>
+  <programme start="20150603143000 +0200" stop="20150603151500 +0200" channel="3sat.de">
+    <title lang="de">Die Rückkehr bedrohter Tierarten</title>
+    <sub-title lang="de">Der Weißstorch</sub-title>
+    <desc lang="de">Der Storch gilt nicht nur als inoffizielles Wappentier des Elsass, er symbolisiert auch die Fruchtbarkeit. Er war Lieblingsmotiv französischer Schwarz-Weiß-Postkarten der Nachkriegszeit. Wie in Deutschland bringt der Storch auch im Elsass die Babys - im übrigen Frankreich glaubt man, dass man sie auf den Kohlfeldern ernten kann. Dabei sah es lange so aus, als gehörten solche Szenen der Vergangenheit an. Frankreichs Störche galten lange als stark bedroht. 1974 gab es in Frankreich nur noch zehn Weißstorchenpaare - die Art war vom Aussterben bedroht. Aber wenn der Natur etwas unter die Arme gegriffen wird, beweist sie eine unglaubliche Regenerationskraft. Und dann kamen die Störche ab den 1990er Jahren nach und nach ins Elsass zurück, sodass 2009 bereits 1.500 Storchenpaare registriert wurden. Der Ornithologe und Vorsitzende des elsässischen Vogelschutzvereins Yves Muller gibt Auskunft über die Weißstörche in Frankreich.</desc>
+    <credits>
+      <producer>Laurent Charbonnier</producer>
+    </credits>
+    <category lang="en">series</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">. . 1/3</episode-num>
+  </programme>
+  <programme start="20150603151500 +0200" stop="20150603155500 +0200" channel="3sat.de">
+    <title lang="de">Die Rückkehr bedrohter Tierarten</title>
+    <sub-title lang="de">Der Eurasische Luchs</sub-title>
+    <desc lang="de">Der Eurasische Luchs, auch Nordluchs genannt, ist die größte in Europa lebende Wildkatze. Sein bevorzugter Lebensraum sind die Wälder der Mittelgebirge. Das scheue, nachtaktive Raubtier lässt sich jedoch nur selten blicken. Früher war der Luchs in ganz Europa heimisch. Aufgrund von Entwaldung, Jagd und Pelz-Wilderei nahm der Bestand aber ab. Und so gab es Ende des 19. Jahrhunderts in Westeuropa keine Luchse mehr. In den 1970er Jahren gelang es einigen wenigen Tierliebhabern, die Behörden und die skeptische Bevölkerung nach zähen Verhandlungen davon zu überzeugen, rund 20 Luchse aus den slowakischen Karpaten im Schweizer Jura wieder anzusiedeln. Die Tiere dehnten ihr Revier auch auf die französische Seite des Gebirgszugs aus. Später wurden noch einmal ebenso viele Luchse in den ostfranzösischen Vogesen ausgesetzt. Die meisten der ausgewilderten Tiere tragen ein Senderhalsband und sind ständig im Visier eines Beobachternetzwerks. Trotz all dieser Bemühungen ist die Wildkatzenart weiterhin bedroht: Für die Jäger ist er ein Konkurrent, und die Schafhalter fürchten Angriffe auf ihre Herden, obwohl Schafe noch seltener von Luchsen als von Wölfen gerissen werden. Hinzu kommen Verluste durch Wilderei. Doch der größte Feind des Luchses sind die Autos.</desc>
+    <credits>
+      <producer>Laurent Charbonnier</producer>
+    </credits>
+    <category lang="en">series</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">. . 2/3</episode-num>
+  </programme>
+  <programme start="20150603155500 +0200" stop="20150603164500 +0200" channel="3sat.de">
+    <title lang="de">Universum</title>
+    <sub-title lang="de">Die Rückkehr des Wiedehopfs</sub-title>
+    <desc lang="de">Ursprünglich tief aus den Savannen Afrikas kommend, besucht jedes Jahr ein besonders auffälliger Gast die idyllische Weinbauregion am österreichischen Wagram: der Wiedehopf. Er ist ein exotisch anmutender Vogel mit kuriosen Verhaltensweisen. Doch der unverwechselbare Vogel ist in ganz Europa zur bedrohten Art geworden, seine Population ist - außer in Spanien - stark rückläufig. Dank engagierter Naturschutzmaßnahmen gibt es heute in der kleinen Region wieder stolze 88 Bruten mit 266 Jungvögeln. Was treibt den Wiedehopf an den Wagram? Bis vor circa zehn Jahren galt er in dieser Gegend praktisch als ausgestorben, bis sich der Tischler Manfred Eckenfellner eines kranken Wiedehopfjungvogels annahm und wieder gesund pflegte. Dieser Tag markiert den Beginn einer außergewöhnlichen Freundschaft und einer bewundernswerten Erfolgsgeschichte.</desc>
+    <credits>
+      <producer>Stefan Polasek</producer>
+      <producer>Florian Berger</producer>
+    </credits>
+    <category lang="en">movie</category>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20150603164500 +0200" stop="20150603173500 +0200" channel="3sat.de">
+    <title lang="de">Auf den Schienen des Doppeladlers</title>
+    <desc lang="de">Mehr als 170 Jahre nach der Eröffnung des ersten Streckenabschnittes auf österreichischem Boden hat die Eisenbahn nichts von ihrer Faszination verloren. Die Bahn ist für Millionen Menschen weltweit zur Passion und Leidenschaft geworden. Unvergleichlich größer und fundamentaler muss dieses Erlebnis wohl für die Menschen im Österreich der Donaumonarchie gewesen sein. Chronisten aus dieser Zeit verglichen das Aufkommen der Eisenbahn mit der Entdeckung Amerikas oder dem Buchdruck. Es waren die Eisenbahnen, die das weite Reich mit Leben erfüllten, die Menschen und Waren zirkulieren ließen und die Eroberung von Landschaften ermöglichten. Mit der Katastrophe des Ersten Weltkrieges versank dieser einzigartige Staat für immer - Namen änderten sich, und Grenzen wurden gezogen. Die Nachbarn und Mitbürger von gestern wurden zu Fremden, zu Feinden und "Ausländern". Während der Entstehung des gigantischen Bahnnetzes der Donaumonarchie, wurden bautechnische Meisterleistungen vollbracht, um die Steppen Galiziens mit den Küsten der Adria zu verbinden. Den zweiten Teil der Dokumentation "Auf den Schienen des Doppeladlers" zeigt 3sat im Anschluss um 17.35 Uhr.</desc>
+    <credits>
+      <producer>Gernot Stadler</producer>
+      <producer>Björn Kölz</producer>
+    </credits>
+    <category lang="en">movie</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">. . 0/2</episode-num>
+  </programme>
+  <programme start="20150603173500 +0200" stop="20150603183000 +0200" channel="3sat.de">
+    <title lang="de">Auf den Schienen des Doppeladlers</title>
+    <desc lang="de">Mehr als 170 Jahre nach der Eröffnung des ersten Streckenabschnittes auf österreichischem Boden hat die Eisenbahn nichts von ihrer Faszination verloren. Die Bahn ist für Millionen Menschen weltweit zur Passion und Leidenschaft geworden. Unvergleichlich größer und fundamentaler muss dieses Erlebnis wohl für die Menschen im Österreich der Donaumonarchie gewesen sein.</desc>
+    <credits>
+      <producer>Gernot Stadler</producer>
+      <producer>Björn Kölz</producer>
+    </credits>
+    <category lang="en">movie</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">. . 1/2</episode-num>
+  </programme>
+  <programme start="20150603183000 +0200" stop="20150603190000 +0200" channel="3sat.de">
+    <title lang="de">nano spezial</title>
+    <sub-title lang="de">Pein in der Pfote</sub-title>
+    <desc lang="de">Ob der Kopf weh tut oder das Knie, jeder Mensch nimmt Schmerzen anders wahr. Doch wie ist das bei Tieren - sind sie in der Lage, Schmerzen zu empfinden? Auch wenn mancher Haustierbesitzer die Frage sofort bejahen würde - die Frage ist durchaus berechtigt. In den USA wurde Veterinär-Studenten noch bis Ende der 1980er Jahre beigebracht, dass Tiere generell keinen Schmerz wahrnehmen können. Ein bequemes Argument, um Nutztiere als emotionsfreie Fleischmaschinen in Schlachtfabriken zu halten. Heute sieht die Wissenschaft das differenzierter. Das Grundproblem aber bleibt: Niemand kann in die Gefühlswelt eines Schweins oder Regenwurms schlüpfen. Wie sehr Tiere unter Schmerzen leiden, lässt sich wissenschaftlich nur schwer beurteilen. Hirnforscher gehen davon aus, dass für die Fähigkeit zu leiden, Bewusstsein nötig ist. Das Bewusstsein ist im sogenannten Neocortex, dem evolutionär jüngsten Teil des Gehirns, verankert. Da dieser Gehirnabschnitt bei vielen Tieren nur gering ausgeprägt ist, liegt der Schluss nahe, dass sie nicht im psychischen Sinn leiden können. Allerdings gibt es inzwischen zahlreiche Hinweise, dass nicht nur Säugetiere Schmerzen empfinden, sondern auch Fische, Oktopusse und sogar Krebse. Da sie mit uns nicht über ihr Befinden sprechen können, ist die Beobachtung ihres Verhaltens die einzige Möglichkeit, das Ausmaß ihres Leids zu beurteilen. Das Problem: Jedes Tier verhält sich anders. Ein Hund leidet anders als eine Katze, ein Pferd anders als ein Fisch oder ein Insekt. Das 3sat-Wissenschaftsmagazin "nano" sucht nach Antworten auf eine nicht ganz einfache Frage - die neben Tierbiologen inzwischen auch Verhaltensforscher und sogar Philosophen beschäftigt.</desc>
+    <credits>
+      <presenter>Kristina zur Mühlen</presenter>
+    </credits>
+    <category lang="en">series</category>
+  </programme>
+  <programme start="20150603190000 +0200" stop="20150603192000 +0200" channel="3sat.de">
+    <title lang="de">heute</title>
+    <desc lang="de">Die Nachrichtensendung des ZDF. Aktuelle, informative Beiträge und Live-Schaltgespräche zu den Topthemen des Tages aus Politik, Wirtschaft, Justiz, Wissenschaft und Sport liefert die ZDF-Nachrichtensendung.</desc>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150603192000 +0200" stop="20150603200000 +0200" channel="3sat.de">
+    <title lang="de">Kulturzeit</title>
+    <desc lang="de">"Kulturzeit" ist das werktägliche Kulturmagazin von 3sat. "Kulturzeit" mischt sich in kulturelle und gesellschaftspolitische Fragen ein. Das Magazin bietet ergänzende Hintergrundinformationen, Porträts und Gespräche zu aktuellen und brisanten Fragen.</desc>
+    <credits>
+      <presenter>Andrea Meier</presenter>
+    </credits>
+  </programme>
+  <programme start="20150603200000 +0200" stop="20150603201500 +0200" channel="3sat.de">
+    <title lang="de">Tagesschau</title>
+    <desc lang="de">ARD-Nachrichten aus dem In- und Ausland auf den Punkt gebracht. Die "Tagesschau" bietet die wichtigsten Nachrichten des Tages, und zusätzliche Informationen in Text, Bild, Audio und Video sowie umfassende Berichte und Hintergründe zu aktuellen Themen und Entwicklungen.</desc>
+    <category lang="en">news</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150603201500 +0200" stop="20150603210500 +0200" channel="3sat.de">
+    <title lang="de">Mit Volldampf an die k.u.k. Riviera</title>
+    <desc lang="de">Bereits Ende des 19. Jahrhunderts reisten Adel und wohlhabendes Bürgertum an die österreichische Riviera, um ihr Feriendomizil in den mondänen Seebädern der Donaumonarchie aufzuschlagen. In luxuriösen Eisenbahncoupés strömte das noble Reisepublikum ans Meer und gab sich in idyllisch gelegenen Seebädern seinen Vergnügungen hin. Der Quarnero, wie die Kroaten ihre Adriaküste heute nennen, galt als Synonym für den Begriff "österreichische Riviera". Besonders das Seebad Opatija (früher Abbazia) bürgte für Exklusivität und Eleganz. Wer es sich halbwegs leisten konnte, fuhr einmal im Jahr an die Adria. Mit dem einsetzenden Siegeszug der Eisenbahn um die Mitte des 19. Jahrhunderts erhielt das Reisen eine neue Qualität. Die Entfernungen, räumliche und zeitliche Distanzen schrumpften. Natürliche Hindernisse, die bis dahin die Verbindungen erschwert hatten, wurden nun durch kühne bautechnische Lösungen überwunden; der "Fahrplan" wurde zum Garant einer exakt kalkulierbaren Reise. Mit dem fortschreitenden Bahnbau erlebte besonders Abbazia einen beispiellosen Bau- und Tourismusboom und mutierte in Windeseile zu einem der attraktivsten Seebäder Europas.</desc>
+    <credits>
+      <producer>Björn Kölz</producer>
+      <producer>Gernot Stadler</producer>
+    </credits>
+    <category lang="en">movie</category>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20150603210500 +0200" stop="20150603220000 +0200" channel="3sat.de">
+    <title lang="de">Seine Majestät, der See</title>
+    <desc lang="de">Der Lago di Lugano und der Lago Maggiore sind die bekanntesten Seen des Tessins. Touristen aus aller Welt verbringen den Urlaub an ihren Ufern. Auch die lokale Bevölkerung schätzt sie. Wenn der See vor der Haustüre liegt, lebt man mit ihm und entwickelt eine Beziehung zu ihm. Der See bedeutet für die Anwohner Leben: Früher haben sich die Leute vom Fisch ernährt. Heute sind viele vom Tourismus abhängig. Sowohl der Luganer- als auch der Langensee verbindet die Schweiz mit Italien. Und obwohl die Kulturen, Traditionen und Dialekte unterschiedlich sind, vereint der See die zwei Nationen mehr, als er sie trennt. Die Ufer der Seen zählen für viele zu den schönsten Orten, an denen man verweilen kann. Menschen, die auf oder am See leben und dort ihrer Arbeit nachgehen können oder wollen nicht mehr auskommen ohne die fesselnde Schönheit des Wassers: Diesem Glitzern und Funkeln der Oberfläche, der Ruhe, die ein See ausstrahlt, und der manchmal auch unheimlich faszinierenden Tiefe des Gewässers.</desc>
+    <credits>
+      <producer>Mohammed Soudani</producer>
+    </credits>
+    <category lang="en">movie</category>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20150603220000 +0200" stop="20150603222500 +0200" channel="3sat.de">
+    <title lang="de">ZIB 2</title>
+    <desc lang="de">Das tägliche Nachrichtenmagazin des ORF-Fernsehens. Von Montag bis Freitag liefert "ZIB 2" einen Überblick über die Ereignisse des Tages und bietet dabei vor allem vertiefende Hintergrundinformationen.</desc>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150603222500 +0200" stop="20150603235500 +0200" channel="3sat.de">
+    <title lang="de">Ein geheimnisvoller Sommer</title>
+    <desc lang="de">Die Fotografin Esther Kaufmann möchte die Beziehung zu ihrem Verleger und langjährigen Liebhaber Rolf Berghoff in einem gemeinsamen Urlaub in dessen Ferienhaus wieder neu beleben. Seit dem Tod von Rolfs Sohn vor einigen Jahren wurde das Haus kaum mehr besucht. Früher verbrachten die drei benachbarten Familien ihre Ferien immer hier. Esther erhofft sich von den gemeinsamen Tagen eine Neubelebung ihrer Beziehung. Rolf jedoch hat andere Zukunftspläne: Er wird noch einmal Vater - aus der Beziehung zu seiner Assistentin - und will seine Verhältnisse klären. Nach einer letzten Nacht mit Esther verlässt Rolf das Haus früh morgens, um mit dem Zug zurückzufahren. Doch er kommt nie an. Zur selben Zeit erscheint Paul, der sich im gegenüberliegenden Ferienhaus einquartiert hat. Er ist der Sohn der ehemaligen Haushälterin der Familien. Während Esther ihre eigene Situation verarbeitet, lernen sich die beiden näher kennen. Esther ist von der aufdringlichen und provozierenden Art zunächst sehr irritiert, beginnt sich aber immer mehr für den geheimnisvollen jungen Mann zu interessieren. Verzweifelt versucht sie, Rolf über sein Handy für eine Aussprache zu erreichen - allerdings vergebens. Rolf meldet sich nicht. Als Esther erfährt, dass Rolfs Leiche gefunden wurde, macht sie sich auf die Suche nach der Wahrheit: Was verbindet die drei Familien wirklich? Was hat Paul mit all dem zu tun? Esthers Nachforschungen bringen schließlich erheblich mehr Verborgenes ans Tageslicht.</desc>
+    <credits>
+      <director>Johannes Grieser</director>
+      <actor role="Esther Kaufmann">Suzanne von Borsody</actor>
+      <actor role="Paul">Ludwig Blochberger</actor>
+      <actor role="Stephan Rainbold">Peter Prager</actor>
+      <actor role="Rolf Berghoff">Erwin Steinhauer</actor>
+      <actor role="Sascha">Nikola Kastner</actor>
+      <actor role="Kastanienwirt">Matthias Christian Rehrl</actor>
+      <actor role="Helga">Anna von Berg</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="en">movie</category>
+    <category lang="en">Crime</category>
+    <url>http://www.themoviedb.org/movie/158446</url>
+    <episode-num system="themoviedb.org">movie/158446</episode-num>
+  </programme>
+  <programme start="20150603235500 +0200" stop="20150604002500 +0200" channel="3sat.de">
+    <title lang="de">Ein Schiff, zwei Männer und 400 Brücken</title>
+    <desc lang="de">Schiffsführer Werner Döbberthin verbringt mehr Zeit mit seinem Motorenwart Fred Lenke als mit seiner Frau. Die beiden arbeiten auf der "Seeadler" im Dienst des Wasser- und Schifffahrtamts. Die Maschine der "Seeadler" taufte Döbberthin "Sabine", auf den Namen seiner Frau: "Zu Hause hat Sabine das Sagen, hier auf dem Wasser hört Sabine auf mich", flachst er. Die riesige Steigerponton der "Seeadler" hilft Brückeningenieuren bei ihren Untersuchungen. Sie sind die "Hausärzte der Brücken" und testen regelmäßig die Standfestigkeit der rund 400 Brücken. Das Hantieren mit dem 40 Meter-Steiger ist heikle Maßarbeit - ein Fehler und die Arbeit kommt tagelang zum Erliegen. Zwischen den Inspektionen erlebt die Besatzung der "Seeadler" immer wieder neue Abenteuer: Sie retten Kühe auf einer verlassenen Havelinsel oder ärgern die mit den Seeregeln unvertrauten Freizeitkapitäne durch freche Ansagen. Schon seit den 1960er-Jahren sind die beiden zunächst für DDR-Binnenschifffahrt unterwegs gewesen. Auf der heute aus Naturschutzgründen für Binnenschiffer gesperrte Havel, ist es ihnen manchmal einsam zumute. Mit ihnen unterwegs werden die Zeiten der DDR-Binnenschifffahrt wieder lebendig - ob in Berlin-Rummelsburg oder beim Stahlwerk Brandenburg. So wird die Reise durch Stadt und Natur zugleich zur unterhaltsamen wie nostalgischen Zeitreise.</desc>
+    <credits>
+      <producer>Sascha Adamek</producer>
+      <producer>Martin Hahn</producer>
+    </credits>
+    <category lang="en">movie</category>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20150604002500 +0200" stop="20150604005000 +0200" channel="3sat.de">
+    <title lang="de">10 vor 10</title>
+    <desc lang="de">"10vor10" ist eine Informationssendung von Schweizer Radio und Fernsehen (SRF). Vertiefende Berichte, Reportagen, Porträts und Live-Gespräche informieren über die wichtigsten Themen des Tages aus der Schweiz und der Welt.</desc>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150604005000 +0200" stop="20150604012000 +0200" channel="3sat.de">
+    <title lang="de">ECO</title>
+    <desc lang="de">Das Wirtschaftsmagazin von Schweizer Radio und Fernsehen wirft einen eigenständigen Blick auf das Wirtschaftsleben mit Hintergrund-Berichten, Grafiken und Reportagen. "ECO" berichtet seit 2007 aus der Perspektive der Wirtschaft und bringt die Welt der Wirtschaft den Zuschauern näher. "ECO" fragt nach, "ECO" zeigt die Zusammenhänge, "ECO" erklärt die Gründe und die Hintergründe. Ob Marktschreier oder Manager, ob Bauer oder Banker, ob lokal oder global - "ECO" lebt Wirtschaft.</desc>
+    <credits>
+      <presenter>Reto Lipp</presenter>
+    </credits>
+  </programme>
+  <programme start="20150604012000 +0200" stop="20150604021500 +0200" channel="3sat.de">
+    <title lang="de">Mit Volldampf an die k.u.k. Riviera</title>
+    <desc lang="de">Bereits Ende des 19. Jahrhunderts reisten Adel und wohlhabendes Bürgertum an die österreichische Riviera, um ihr Feriendomizil in den mondänen Seebädern der Donaumonarchie aufzuschlagen. In luxuriösen Eisenbahncoupés strömte das noble Reisepublikum ans Meer und gab sich in idyllisch gelegenen Seebädern seinen Vergnügungen hin. Der Quarnero, wie die Kroaten ihre Adriaküste heute nennen, galt als Synonym für den Begriff "österreichische Riviera". Besonders das Seebad Opatija (früher Abbazia) bürgte für Exklusivität und Eleganz. Wer es sich halbwegs leisten konnte, fuhr einmal im Jahr an die Adria. Mit dem einsetzenden Siegeszug der Eisenbahn um die Mitte des 19. Jahrhunderts erhielt das Reisen eine neue Qualität. Die Entfernungen, räumliche und zeitliche Distanzen schrumpften. Natürliche Hindernisse, die bis dahin die Verbindungen erschwert hatten, wurden nun durch kühne bautechnische Lösungen überwunden; der "Fahrplan" wurde zum Garant einer exakt kalkulierbaren Reise. Mit dem fortschreitenden Bahnbau erlebte besonders Abbazia einen beispiellosen Bau- und Tourismusboom und mutierte in Windeseile zu einem der attraktivsten Seebäder Europas.</desc>
+    <credits>
+      <producer>Björn Kölz</producer>
+      <producer>Gernot Stadler</producer>
+    </credits>
+    <category lang="en">movie</category>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20150603020000 +0200" stop="20150603021500 +0200" channel="amerika.dw.de">
+    <title lang="en">Journal</title>
+    <sub-title lang="en">Nachrichten</sub-title>
+    <category lang="en">series</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150603021500 +0200" stop="20150603023000 +0200" channel="amerika.dw.de">
+    <title lang="en">Wirtschaft kompakt</title>
+    <sub-title lang="en">Nachrichten</sub-title>
+    <category lang="en">series</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20150603023000 +0200" stop="20150603030000 +0200" channel="amerika.dw.de">
+    <title lang="en">Motor mobil</title>
+    <sub-title lang="en">Das Automagazin</sub-title>
+    <desc lang="en">Schnell mit einem Porsche, innovativ auf der CES, umweltbewusst bei Seat, kurvenfreundlich mit einer BMW und romantisch in einem VW Cabrio. Motor mobil bildet auch in seiner neuen Ausgabe die Vielfältigkeit rund um das Automobil ab.</desc>
+  </programme>
+  <programme start="20150603030000 +0200" stop="20150603040000 +0200" channel="amerika.dw.de">
+    <title lang="en">Hart aber fair</title>
+    <sub-title lang="en">Politik-Streitgespräch</sub-title>
+    <desc lang="en">Der verkaufte Fußball - macht die FIFA unseren Sport kaputt?</desc>
+    <category lang="en">series</category>
+    <category lang="en">Talk</category>
+  </programme>
+  <programme start="20150603040000 +0200" stop="20150603040300 +0200" channel="amerika.dw.de">
+    <title lang="en">Journal</title>
+    <sub-title lang="en">Nachrichten</sub-title>
+    <category lang="en">series</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150603040300 +0200" stop="20150603043000 +0200" channel="amerika.dw.de">
+    <title lang="en">Made in Germany</title>
+    <sub-title lang="en">Das Wirtschaftsmagazin</sub-title>
+    <desc lang="en">Eigentlich herrscht beschauliche Ruhe in der oberbayrischen Gemeinde Krün. Doch damit ist es jetzt vorbei. Ab dem 7. Juni treffen sich hier die Staats- und Regierungschefs der sieben bedeutendsten Industrienationen. Und auch das Made in Germany-Team ist vor Ort. Wir berichten von Unternehmen und wirtschaftlichen Highlights aus Oberbayern, einer der ökonomisch stärksten Regionen Deutschlands.</desc>
+  </programme>
+  <programme start="20150603043000 +0200" stop="20150603050000 +0200" channel="amerika.dw.de">
+    <title lang="en">ML Mona Lisa</title>
+    <sub-title lang="en">Frauen, Männer &amp; mehr</sub-title>
+    <desc lang="en">Themen: Homosexuelle: Paare 2. Klasse? | Tödliche Vorbilder: Magersucht | Missbrauch in Brüdergemeinde | Hinterm Rampenlicht: Prinz Carl Philip von Schweden | Mit Burlesque ganz Frau sein</desc>
+  </programme>
+  <programme start="20150603050000 +0200" stop="20150603051500 +0200" channel="amerika.dw.de">
+    <title lang="en">Journal</title>
+    <sub-title lang="en">Nachrichten</sub-title>
+    <category lang="en">series</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150603051500 +0200" stop="20150603053000 +0200" channel="amerika.dw.de">
+    <title lang="en">Wirtschaft kompakt</title>
+    <sub-title lang="en">Nachrichten</sub-title>
+    <category lang="en">series</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20150603053000 +0200" stop="20150603060000 +0200" channel="amerika.dw.de">
+    <title lang="en">Euromaxx</title>
+    <sub-title lang="en">Leben und Kultur in Europa</sub-title>
+    <desc lang="en">Frankreich gilt als Gourmetnation. Mit derzeit 26 Drei-Sterne-Restaurants ist das Land weltweiter Spitzenreiter. Spitzenkoch Arnaud Lallement erklärt das Erfolgsrezept. Außerdem: Vegane Ernährung liegt im Trend und erobert auch die Straßenküche. Und: Eine Reihe dänischer Spitzenköche setzt radikal auf regionale Produkte und kocht mit dem, was im Wald wächst.</desc>
+  </programme>
+  <programme start="20150603060000 +0200" stop="20150603060300 +0200" channel="amerika.dw.de">
+    <title lang="en">Journal</title>
+    <sub-title lang="en">Nachrichten</sub-title>
+    <category lang="en">series</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150603060300 +0200" stop="20150603061500 +0200" channel="amerika.dw.de">
+    <title lang="en">Schätze der Welt</title>
+    <sub-title lang="en">Erbe der Menschheit</sub-title>
+    <desc lang="en">Neapel - Stadt der Gegensätze, Italien</desc>
+  </programme>
+  <programme start="20150603061500 +0200" stop="20150603064500 +0200" channel="amerika.dw.de">
+    <title lang="en">Nahaufnahme</title>
+    <sub-title lang="en">Die aktuelle Reportage</sub-title>
+    <desc lang="en">Zoff ums Kiffen - Wie sinnvoll ist die Freigabe von Cannabis?</desc>
+  </programme>
+  <programme start="20150603064500 +0200" stop="20150603070000 +0200" channel="amerika.dw.de">
+    <title lang="en">Shift</title>
+    <sub-title lang="en">Leben in der digitalen Welt</sub-title>
+    <desc lang="en">Jederzeit senden: Warum Livestreaming-Apps wie Meerkat und Periscope der neue Renner sind. Jederzeit sichtbar: Warum sich dänische Studenten freiwillig überwachen lassen. Und im Exit: Jederzeit online - und die Folgen.</desc>
+  </programme>
+  <programme start="20150603070000 +0200" stop="20150603080000 +0200" channel="amerika.dw.de">
+    <title lang="en">Zimmer frei</title>
+    <sub-title lang="en">Talk- und Spielshow</sub-title>
+    <desc lang="en">Zu Gast: Ranga Yogeshwar</desc>
+    <category lang="en">series</category>
+    <category lang="en">talk</category>
+  </programme>
+  <programme start="20150603080000 +0200" stop="20150603081500 +0200" channel="amerika.dw.de">
+    <title lang="en">Journal</title>
+    <sub-title lang="en">News</sub-title>
+    <category lang="en">series</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150603081500 +0200" stop="20150603090000 +0200" channel="amerika.dw.de">
+    <title lang="en">Documentaries and Reports</title>
+    <sub-title lang="en">Breaking Silence</sub-title>
+    <desc lang="en">Breaking Silence - Femicide in Latin America</desc>
+  </programme>
+  <programme start="20150603090000 +0200" stop="20150603090300 +0200" channel="amerika.dw.de">
+    <title lang="en">Journal</title>
+    <sub-title lang="en">News</sub-title>
+    <category lang="en">series</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150603090300 +0200" stop="20150603093000 +0200" channel="amerika.dw.de">
+    <title lang="en">Euromaxx</title>
+    <sub-title lang="en">Lifestyle Europe</sub-title>
+    <desc lang="en">In this special edition of Euromaxx we focus on food.</desc>
+  </programme>
+  <programme start="20150603093000 +0200" stop="20150603100000 +0200" channel="amerika.dw.de">
+    <title lang="en">Drive it!</title>
+    <sub-title lang="en">The Motor Magazine</sub-title>
+    <desc lang="en">On this edition of Drive it! we look at motor vehicles in all their diversity. We zip along in a Porsche, check out the latest techology at the Consumer Electronics Show, go green with SEAT, lean into the curve on a BMW bike and fall in love with a vintage Volkswagen convertible.</desc>
+  </programme>
+  <programme start="20150603100000 +0200" stop="20150603100300 +0200" channel="amerika.dw.de">
+    <title lang="en">Journal</title>
+    <sub-title lang="en">News</sub-title>
+    <category lang="en">series</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150603100300 +0200" stop="20150603101500 +0200" channel="amerika.dw.de">
+    <title lang="en">Treasures of the World</title>
+    <sub-title lang="en">Heritage of Mankind</sub-title>
+    <desc lang="en">Naples - City of Contrasts, Italy</desc>
+  </programme>
+  <programme start="20150603101500 +0200" stop="20150603110000 +0200" channel="amerika.dw.de">
+    <title lang="en">Documentaries and Reports</title>
+    <sub-title lang="en">Sea Rescue Workers</sub-title>
+    <desc lang="en">Sea Rescue Workers</desc>
+  </programme>
+  <programme start="20150603110000 +0200" stop="20150603110300 +0200" channel="amerika.dw.de">
+    <title lang="en">Journal</title>
+    <sub-title lang="en">News</sub-title>
+    <category lang="en">series</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150603110300 +0200" stop="20150603113000 +0200" channel="amerika.dw.de">
+    <title lang="en">Made in Germany</title>
+    <sub-title lang="en">The Business Magazine</sub-title>
+    <desc lang="en">Usually the village of Krün in Upper Bavaria is a quiet, peaceful place. But that's about to change. Beginning on June 7, the heads of state and government of the world's seven leading industrial nations will descend on the village. And a Made in Germany team will be there, too. We'll report on companies and business highlights in Upper Bavaria, one of Germany's strongest economic regions.</desc>
+  </programme>
+  <programme start="20150603113000 +0200" stop="20150603120000 +0200" channel="amerika.dw.de">
+    <title lang="en">Euromaxx</title>
+    <sub-title lang="en">Lifestyle Europe</sub-title>
+    <desc lang="en">In this special edition of Euromaxx we focus on food.</desc>
+  </programme>
+  <programme start="20150603120000 +0200" stop="20150603121500 +0200" channel="amerika.dw.de">
+    <title lang="en">Journal</title>
+    <sub-title lang="en">Nachrichten</sub-title>
+    <category lang="en">series</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150603121500 +0200" stop="20150603130000 +0200" channel="amerika.dw.de">
+    <title lang="en">Dokumentationen und Reportagen</title>
+    <sub-title lang="en">Das Schweigen brechen</sub-title>
+    <desc lang="en">Das Schweigen brechen - Frauenmorde in Lateinamerika</desc>
+  </programme>
+  <programme start="20150603130000 +0200" stop="20150603140000 +0200" channel="amerika.dw.de">
+    <title lang="en">Zimmer frei</title>
+    <sub-title lang="en">Talk- und Spielshow</sub-title>
+    <desc lang="en">Zu Gast: Ranga Yogeshwar</desc>
+    <category lang="en">series</category>
+    <category lang="en">talk</category>
+  </programme>
+  <programme start="20150603140000 +0200" stop="20150603140300 +0200" channel="amerika.dw.de">
+    <title lang="en">Journal</title>
+    <sub-title lang="en">Nachrichten</sub-title>
+    <category lang="en">series</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150603140300 +0200" stop="20150603143000 +0200" channel="amerika.dw.de">
+    <title lang="en">Made in Germany</title>
+    <sub-title lang="en">Das Wirtschaftsmagazin</sub-title>
+    <desc lang="en">Eigentlich herrscht beschauliche Ruhe in der oberbayrischen Gemeinde Krün. Doch damit ist es jetzt vorbei. Ab dem 7. Juni treffen sich hier die Staats- und Regierungschefs der sieben bedeutendsten Industrienationen. Und auch das Made in Germany-Team ist vor Ort. Wir berichten von Unternehmen und wirtschaftlichen Highlights aus Oberbayern, einer der ökonomisch stärksten Regionen Deutschlands.</desc>
+  </programme>
+  <programme start="20150603143000 +0200" stop="20150603150000 +0200" channel="amerika.dw.de">
+    <title lang="en">Euromaxx</title>
+    <sub-title lang="en">Leben und Kultur in Europa</sub-title>
+    <desc lang="en">Frankreich gilt als Gourmetnation. Mit derzeit 26 Drei-Sterne-Restaurants ist das Land weltweiter Spitzenreiter. Spitzenkoch Arnaud Lallement erklärt das Erfolgsrezept. Außerdem: Vegane Ernährung liegt im Trend und erobert auch die Straßenküche. Und: Eine Reihe dänischer Spitzenköche setzt radikal auf regionale Produkte und kocht mit dem, was im Wald wächst.</desc>
+  </programme>
+  <programme start="20150603150000 +0200" stop="20150603153000 +0200" channel="amerika.dw.de">
+    <title lang="en">Journal</title>
+    <sub-title lang="en">Nachrichten</sub-title>
+    <category lang="en">series</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150603153000 +0200" stop="20150603160000 +0200" channel="amerika.dw.de">
+    <title lang="en">ML Mona Lisa</title>
+    <sub-title lang="en">Frauen, Männer &amp; mehr</sub-title>
+    <desc lang="en">Themen: Homosexuelle: Paare 2. Klasse? | Tödliche Vorbilder: Magersucht | Missbrauch in Brüdergemeinde | Hinterm Rampenlicht: Prinz Carl Philip von Schweden | Mit Burlesque ganz Frau sein</desc>
+  </programme>
+  <programme start="20150603160000 +0200" stop="20150603160300 +0200" channel="amerika.dw.de">
+    <title lang="en">Journal</title>
+    <sub-title lang="en">Nachrichten</sub-title>
+    <category lang="en">series</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150603160300 +0200" stop="20150603163000 +0200" channel="amerika.dw.de">
+    <title lang="en">Motor mobil</title>
+    <sub-title lang="en">Das Automagazin</sub-title>
+    <desc lang="en">Schnell mit einem Porsche, innovativ auf der CES, umweltbewusst bei Seat, kurvenfreundlich mit einer BMW und romantisch in einem VW Cabrio. Motor mobil bildet auch in seiner neuen Ausgabe die Vielfältigkeit rund um das Automobil ab.</desc>
+  </programme>
+  <programme start="20150603163000 +0200" stop="20150603173000 +0200" channel="amerika.dw.de">
+    <title lang="en">Menschen bei Maischberger</title>
+    <sub-title lang="en">Talkshow</sub-title>
+    <desc lang="en">Motiv: Habgier</desc>
+    <category lang="en">series</category>
+    <category lang="en">Talk</category>
+  </programme>
+  <programme start="20150603173000 +0200" stop="20150603180000 +0200" channel="amerika.dw.de">
+    <title lang="en">Global 3000</title>
+    <sub-title lang="en">Das Globalisierungsmagazin</sub-title>
+    <desc lang="en">Über 50 Millionen Menschen weltweit befinden sich auf der Flucht. Das ist auch für die Aufnahmeländer eine große Herausforderung. Andererseits können sie auch profitieren, das zeigt ein Beispiel aus den USA: die Stadt Utica konnte erst durch die Flüchtlinge wieder belebt werden. Außerdem: Ein Ökolabel für Schrimps soll die Fischer im Mekong-Delta zu Nachhaltigkeit anhalten.</desc>
+  </programme>
+  <programme start="20150603180000 +0200" stop="20150603180300 +0200" channel="amerika.dw.de">
+    <title lang="en">Journal</title>
+    <sub-title lang="en">Nachrichten</sub-title>
+    <category lang="en">series</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150603180300 +0200" stop="20150603183000 +0200" channel="amerika.dw.de">
+    <title lang="en">Projekt Zukunft</title>
+    <sub-title lang="en">Alexander Gerst im Interview</sub-title>
+    <desc lang="en">Wir sind mit dem deutschen Geophysiker und Astronauten Alexander Gerst verabredet. Im Mai des vergangenen Jahres flog er in einer Sojus-Kapsel zur Internationalen Raumstation ISS. Viele wissenschaftliche Experimente, Tweets, Bilder und Weltraumerfahrungen später kehrte er im November 2014 zur Erde zurück.</desc>
+  </programme>
+  <programme start="20150603183000 +0200" stop="20150603190000 +0200" channel="amerika.dw.de">
+    <title lang="en">Euromaxx</title>
+    <sub-title lang="en">Leben und Kultur in Europa</sub-title>
+    <desc lang="en">Frankreich gilt als Gourmetnation. Mit derzeit 26 Drei-Sterne-Restaurants ist das Land weltweiter Spitzenreiter. Spitzenkoch Arnaud Lallement erklärt das Erfolgsrezept. Außerdem: Vegane Ernährung liegt im Trend und erobert auch die Straßenküche. Und: Eine Reihe dänischer Spitzenköche setzt radikal auf regionale Produkte und kocht mit dem, was im Wald wächst.</desc>
+  </programme>
+  <programme start="20150603190000 +0200" stop="20150603191500 +0200" channel="amerika.dw.de">
+    <title lang="en">Journal</title>
+    <sub-title lang="en">Nachrichten</sub-title>
+    <category lang="en">series</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150603191500 +0200" stop="20150603200000 +0200" channel="amerika.dw.de">
+    <title lang="en">Dokumentationen und Reportagen</title>
+    <sub-title lang="en">Das Schloss, der Gipfel und die Macht</sub-title>
+    <desc lang="en">Das Schloss, der Gipfel und die Macht: G7 - Countdown für zwei Tage Weltpolitik</desc>
+  </programme>
+  <programme start="20150603200000 +0200" stop="20150603200300 +0200" channel="amerika.dw.de">
+    <title lang="en">Journal</title>
+    <sub-title lang="en">Nachrichten</sub-title>
+    <category lang="en">series</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150603200300 +0200" stop="20150603203000 +0200" channel="amerika.dw.de">
+    <title lang="en">Made in Germany</title>
+    <sub-title lang="en">Das Wirtschaftsmagazin</sub-title>
+    <desc lang="en">Eigentlich herrscht beschauliche Ruhe in der oberbayrischen Gemeinde Krün. Doch damit ist es jetzt vorbei. Ab dem 7. Juni treffen sich hier die Staats- und Regierungschefs der sieben bedeutendsten Industrienationen. Und auch das Made in Germany-Team ist vor Ort. Wir berichten von Unternehmen und wirtschaftlichen Highlights aus Oberbayern, einer der ökonomisch stärksten Regionen Deutschlands.</desc>
+  </programme>
+  <programme start="20150603203000 +0200" stop="20150603210000 +0200" channel="amerika.dw.de">
+    <title lang="en">Motor mobil</title>
+    <sub-title lang="en">Das Automagazin</sub-title>
+    <desc lang="en">Schnell mit einem Porsche, innovativ auf der CES, umweltbewusst bei Seat, kurvenfreundlich mit einer BMW und romantisch in einem VW Cabrio. Motor mobil bildet auch in seiner neuen Ausgabe die Vielfältigkeit rund um das Automobil ab.</desc>
+  </programme>
+  <programme start="20150603210000 +0200" stop="20150603220000 +0200" channel="amerika.dw.de">
+    <title lang="en">Menschen bei Maischberger</title>
+    <sub-title lang="en">Talkshow</sub-title>
+    <desc lang="en">Motiv: Habgier</desc>
+    <category lang="en">series</category>
+    <category lang="en">Talk</category>
+  </programme>
+  <programme start="20150603220000 +0200" stop="20150603221500 +0200" channel="amerika.dw.de">
+    <title lang="en">Journal</title>
+    <sub-title lang="en">Nachrichten</sub-title>
+    <category lang="en">series</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150603221500 +0200" stop="20150603230000 +0200" channel="amerika.dw.de">
+    <title lang="en">Dokumentationen und Reportagen</title>
+    <sub-title lang="en">Das Schweigen brechen</sub-title>
+    <desc lang="en">Das Schweigen brechen - Frauenmorde in Lateinamerika</desc>
+  </programme>
+  <programme start="20150603230000 +0200" stop="20150603233000 +0200" channel="amerika.dw.de">
+    <title lang="en">Journal</title>
+    <sub-title lang="en">Nachrichten</sub-title>
+    <category lang="en">series</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150603233000 +0200" stop="20150604000000 +0200" channel="amerika.dw.de">
+    <title lang="en">Fit &amp; gesund</title>
+    <sub-title lang="en">Das Gesundheitsmagazin</sub-title>
+    <desc lang="en">Wer häufig nach dem Essen Völlegefühl, brennende Schmerzen oder saures Aufstoßen verspürt, leidet vermutlich unter Sodbrennen. Warum aber auch Husten und Heiserkeit auf eine Refluxkrankheit hindeuten können und wann eine Operation sinnvoll ist, erklärt Prof. Dr. Bertram Wiedenmann. Außerdem: was bei Fersensporn hilft und was Aquadancing so effektiv macht.</desc>
+  </programme>
+  <programme start="20150604000000 +0200" stop="20150604000300 +0200" channel="amerika.dw.de">
+    <title lang="en">Journal</title>
+    <sub-title lang="en">Nachrichten</sub-title>
+    <category lang="en">series</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150604000300 +0200" stop="20150604003000 +0200" channel="amerika.dw.de">
+    <title lang="en">Fokus Europa</title>
+    <sub-title lang="en">Länder, Menschen, Schicksale</sub-title>
+    <desc lang="en">Island: Tunnel durchs ewige Eis | Tschechien: Willkommen im Reality-TV | Rumänien: Erfolge gegen Korruption | Polen: Gewalt gegen Frauen | Großbritannien: Ein Rennpferd für alle.</desc>
+  </programme>
+  <programme start="20150604003000 +0200" stop="20150604013000 +0200" channel="amerika.dw.de">
+    <title lang="en">Pelzig hält sich</title>
+    <sub-title lang="en">Kabarett-Talk</sub-title>
+    <desc lang="en">Gäste: Katrin Göring-Eckardt, Thomas Hermanns, Howard Carpendale</desc>
+  </programme>
+  <programme start="20150604013000 +0200" stop="20150604020000 +0200" channel="amerika.dw.de">
+    <title lang="en">Euromaxx</title>
+    <sub-title lang="en">Leben und Kultur in Europa</sub-title>
+    <desc lang="en">Der dänische Architekt Bjarke Ingels hat weltweit aufsehenerregende Bauten entworfen. Auch für den Internetkonzern Google hat er den neuen Firmensitz im Silicon Valley geplant. Außerdem: Wie bauen Architekten ihre eigenen Wohnhäuser - und wie richten sie sie ein? Und: Ein Buch zeigt, wie man Designermöbel selbst bauen kann.</desc>
+  </programme>
+</tv>
