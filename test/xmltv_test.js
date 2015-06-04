@@ -9,11 +9,13 @@ test('XMLTV Parsing', function (t)  {
   input.pipe(parser);
 
   var programmes = [];
-  var channels = [];
+
+  parser.on('programme', function (programme) {
+    programmes.push(programme);
+  });
 
   parser.on('end', function (){
     t.equal(programmes.length, 87, 'Parsed all the programme tags');
-    t.equal(channels.length, 2, 'Parsed all the channel tags');
     t.end();
   });
 });
