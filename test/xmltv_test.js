@@ -1,7 +1,6 @@
-'use strict';
+var test = require('tape');
 
-var xmltv = require('../lib/xmltv.js');
-
-describe("xmltv testing suite", function() {
-    it("")
+test('XMLTV Parsing', function (t)  {
+  t.pass('Placeholder');
+  t.end();
 });

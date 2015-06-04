@@ -1,17 +1,11 @@
-'use strict';
-
 module.exports = function(grunt) {
-
   // Project configuration.
   grunt.initConfig({
-    mochacli: {
+    tape: {
       options: {
-        "require": ["chai"],
-        reporter: "nyan",
-        bail: true
-
+        pretty: false // You can pipe the output to your prefered tap reader
       },
-      all: ['test/*.js']
+      files: ['test/**/*.js']
     },
     jshint: {
       options: {
@@ -24,33 +18,16 @@ module.exports = function(grunt) {
         src: ['lib/**/*.js']
       },
       test: {
-        src: ['test/*.js']
-      },
-    },
-    watch: {
-      gruntfile: {
-        files: '<%= jshint.gruntfile.src %>',
-        tasks: ['jshint:gruntfile']
-      },
-      lib: {
-        files: '<%= jshint.lib.src %>',
-        tasks: ['jshint:lib', 'test']
-      },
-      test: {
-        files: '<%= jshint.test.src %>',
-        tasks: ['jshint:test', 'test']
-      },
-    },
+        src: ['test/**/*.js']
+      }
+    }
   });
 
   // These plugins provide necessary tasks.
-  //grunt.loadNpmTasks('grunt-contrib-nodeunit');
   grunt.loadNpmTasks('grunt-contrib-jshint');
-  grunt.loadNpmTasks('grunt-contrib-watch');
-  grunt.loadNpmTasks("grunt-mocha-cli");
+  grunt.loadNpmTasks('grunt-tape');
 
   // Default task.
-  grunt.registerTask('default', ['jshint', 'mochacli']);
-  grunt.registerTask('test', ['mochacli']);
-
+  grunt.registerTask('test', ['tape']);
+  grunt.registerTask('default', ['jshint', 'test']);
 };
