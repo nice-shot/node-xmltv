@@ -95,7 +95,7 @@ attribute.
 The returned value is either `null` if no value could be parsed or the season's
 number.
 
-If you had the Programme object from the above parsing running `getSeason()` will
+If you had the Programme object from the above parsing, running `getSeason()` will
 return: `1`.
 For more information about the xmltv_ns format check the [xmltv dtd](http://xmltv.cvs.sourceforge.net/viewvc/xmltv/xmltv/xmltv.dtd)
 
