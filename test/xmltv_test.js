@@ -31,6 +31,10 @@ test('XMLTV Parsing', function (t)  {
       ['Dünkirchen, 2. Juni 1940'],
       'Parsed title'
     );
+    t.deepEqual(programmes[3].secondaryTitle,
+      ['Die gleißende Welt   Siri Hustvedts Roman über den entgleisten Kunstbetrieb'],
+      'Parsed sub-title'
+    );
 
     t.end();
   });
