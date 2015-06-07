@@ -18,13 +18,11 @@ function createParser(xmlName) {
 test('XMLTV Parsing', function (t)    {
     var euParser = createParser('eu_listings.xml');
 
-
     var programmes = [];
 
     euParser.on('programme', function (programme) {
         programmes.push(programme);
     });
-
 
     euParser.on('end', function (){
         t.equal(programmes.length, 87, 'Parsed all the programme tags');
@@ -50,6 +48,10 @@ test('XMLTV Parsing', function (t)    {
         t.deepEqual(programmes[3].desc,
             ['"Kulturzeit" ist das werktägliche Kulturmagazin von 3sat. "Kulturzeit" mischt sich in kulturelle und gesellschaftspolitische Fragen ein. Das Magazin bietet ergänzende Hintergrundinformationen, Porträts und Gespräche zu aktuellen und brisanten Fragen.'],
             'Parsed desc'
+        );
+        t.deepEqual(programmes[1].category,
+            ['movie', 'Documentary'],
+            'Parsed category'
         );
         t.end();
     });
