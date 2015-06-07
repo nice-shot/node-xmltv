@@ -5,31 +5,29 @@ var XMLTVParser = require('../lib/xmltv.js');
 
 /**
  * Starts reading and parsing the file from the test folder. Returns the xmltv
- * parser
+ * parser. Also appends all the programmes data to the given array
  */
-function createParser(xmlName) {
+function createParser(xmlName, programmeArray) {
     var input = fs.createReadStream(__dirname + '/' + xmlName);
     var parser = new XMLTVParser();
     input.pipe(parser);
+
+    parser.on('programme', function (programme) {
+        programmeArray.push(programme);
+    });
 
     return parser;
 }
 
 test('XMLTV Parsing', function (t)    {
-    t.plan(9);
-    var euParser = createParser('eu_listings.xml');
-    var guideParser = createParser('tvguide.xml');
-
+    t.plan(10);
     var euProgrammes = [];
     var guideProgrammes = [];
+    var itProgrammes = [];
+    var euParser = createParser('eu_listings.xml', euProgrammes);
+    var guideParser = createParser('tvguide.xml', guideProgrammes);
+    var itParser = createParser('it_listings.xml', itProgrammes);
 
-    euParser.on('programme', function (programme) {
-        euProgrammes.push(programme);
-    });
-
-    guideParser.on('programme', function (programme) {
-        guideProgrammes.push(programme);
-    });
 
     euParser.on('end', function (){
         t.equal(euProgrammes.length, 87, 'Parsed all the programme tags');
@@ -64,6 +62,13 @@ test('XMLTV Parsing', function (t)    {
 
     guideParser.on('end', function () {
         t.equal(guideProgrammes[0].length, 85 * 60, 'Parsed length');
+    });
+
+    itParser.on('end', function () {
+        t.deepEqual(itProgrammes[1533].country,
+            ['ITALIA'],
+            'Parsed country'
+        );
     });
 });
 
