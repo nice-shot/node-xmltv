@@ -24,12 +24,9 @@ test('XMLTV Parsing', function (t)    {
     var euProgrammes = [];
     var guideProgrammes = [];
     var itProgrammes = [];
-    // var seProgrammes = [];
     var euParser = createParser('eu_listings.xml', euProgrammes);
     var guideParser = createParser('tvguide.xml', guideProgrammes);
     var itParser = createParser('it_listings.xml', itProgrammes);
-    // var seParser = createParser('se_listings.xml', seProgrammes);
-
 
     euParser.on('end', function (){
         t.equal(euProgrammes.length, 87, 'Parsed all the programme tags');
