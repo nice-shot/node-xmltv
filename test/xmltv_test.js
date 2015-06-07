@@ -20,7 +20,7 @@ function createParser(xmlName, programmeArray) {
 }
 
 test('XMLTV Parsing', function (t)    {
-    t.plan(11);
+    t.plan(12);
     var euProgrammes = [];
     var guideProgrammes = [];
     var itProgrammes = [];
@@ -61,6 +61,10 @@ test('XMLTV Parsing', function (t)    {
 
     guideParser.on('end', function () {
         t.equal(guideProgrammes[0].length, 85 * 60, 'Parsed length');
+        t.deepEqual(guideProgrammes[17].episodeNum,
+            [ { system: 'xmltv_ns', value: '.8/12.'}],
+            'Parsed episode-num'
+        );
     });
 
     itParser.on('end', function () {

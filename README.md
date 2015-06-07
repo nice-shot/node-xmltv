@@ -1,8 +1,20 @@
 # xmltv
 
-A xmltv reader based on sax.
+An [XMLTV](http://wiki.xmltv.org/index.php/Main_Page) format reader based on sax.
+
+## Installation
+
+~~`npm install xmltv`~~ (Currently not uploaded to npm)
 
 ## Getting Started
+The module expoeses the XMLTVParser class. This class is a writable stream so
+you can just pipe XMLTV data to it:
+
+```javascript
+
+```
+
+
 Install the module with: `npm install xmltv` It's not yet in npm though !
 
 ```javascript
