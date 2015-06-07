@@ -20,7 +20,7 @@ function createParser(xmlName, programmeArray) {
 }
 
 test('XMLTV Parsing', function (t)    {
-    t.plan(13);
+    t.plan(15);
     var euProgrammes = [];
     var guideProgrammes = [];
     var itProgrammes = [];
@@ -32,6 +32,10 @@ test('XMLTV Parsing', function (t)    {
         t.equal(euProgrammes.length, 87, 'Parsed all the programme tags');
         var firstProgramme = euProgrammes[0];
         t.equal(firstProgramme.channel, '3sat.de', 'Parsed channel');
+        // getSeason checks:
+        t.equal(firstProgramme.getSeason('0.1/3.'), 1, 'getSeason with data');
+        t.equal(firstProgramme.getSeason('.4.0'), null, 'getSeason empty');
+
         t.deepEqual(firstProgramme.start,
             new Date('2015-06-03T02:50:00+02:00'),
             'Parsed start'
