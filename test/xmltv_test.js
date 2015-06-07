@@ -16,17 +16,24 @@ function createParser(xmlName) {
 }
 
 test('XMLTV Parsing', function (t)    {
+    t.plan(9);
     var euParser = createParser('eu_listings.xml');
+    var guideParser = createParser('tvguide.xml');
 
-    var programmes = [];
+    var euProgrammes = [];
+    var guideProgrammes = [];
 
     euParser.on('programme', function (programme) {
-        programmes.push(programme);
+        euProgrammes.push(programme);
+    });
+
+    guideParser.on('programme', function (programme) {
+        guideProgrammes.push(programme);
     });
 
     euParser.on('end', function (){
-        t.equal(programmes.length, 87, 'Parsed all the programme tags');
-        var firstProgramme = programmes[0];
+        t.equal(euProgrammes.length, 87, 'Parsed all the programme tags');
+        var firstProgramme = euProgrammes[0];
         t.equal(firstProgramme.channel, '3sat.de', 'Parsed channel');
         t.deepEqual(firstProgramme.start,
             new Date('2015-06-03T02:50:00+02:00'),
@@ -41,19 +48,22 @@ test('XMLTV Parsing', function (t)    {
             ['Dünkirchen, 2. Juni 1940'],
             'Parsed title'
         );
-        t.deepEqual(programmes[3].secondaryTitle,
+        t.deepEqual(euProgrammes[3].secondaryTitle,
             ['Die gleißende Welt   Siri Hustvedts Roman über den entgleisten Kunstbetrieb'],
             'Parsed sub-title'
         );
-        t.deepEqual(programmes[3].desc,
+        t.deepEqual(euProgrammes[3].desc,
             ['"Kulturzeit" ist das werktägliche Kulturmagazin von 3sat. "Kulturzeit" mischt sich in kulturelle und gesellschaftspolitische Fragen ein. Das Magazin bietet ergänzende Hintergrundinformationen, Porträts und Gespräche zu aktuellen und brisanten Fragen.'],
             'Parsed desc'
         );
-        t.deepEqual(programmes[1].category,
+        t.deepEqual(euProgrammes[1].category,
             ['movie', 'Documentary'],
             'Parsed category'
         );
-        t.end();
+    });
+
+    guideParser.on('end', function () {
+        t.equal(guideProgrammes[0].length, 85 * 60, 'Parsed length');
     });
 });
 
