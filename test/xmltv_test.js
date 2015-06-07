@@ -35,6 +35,10 @@ test('XMLTV Parsing', function (t)  {
       ['Die gleißende Welt   Siri Hustvedts Roman über den entgleisten Kunstbetrieb'],
       'Parsed sub-title'
     );
+    t.deepEqual(programmes[3].desc,
+      ['"Kulturzeit" ist das werktägliche Kulturmagazin von 3sat. "Kulturzeit" mischt sich in kulturelle und gesellschaftspolitische Fragen ein. Das Magazin bietet ergänzende Hintergrundinformationen, Porträts und Gespräche zu aktuellen und brisanten Fragen.'],
+      'Parsed desc'
+    );
 
     t.end();
   });
