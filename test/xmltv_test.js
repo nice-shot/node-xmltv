@@ -20,13 +20,15 @@ function createParser(xmlName, programmeArray) {
 }
 
 test('XMLTV Parsing', function (t)    {
-    t.plan(10);
+    t.plan(11);
     var euProgrammes = [];
     var guideProgrammes = [];
     var itProgrammes = [];
+    // var seProgrammes = [];
     var euParser = createParser('eu_listings.xml', euProgrammes);
     var guideParser = createParser('tvguide.xml', guideProgrammes);
     var itParser = createParser('it_listings.xml', itProgrammes);
+    // var seParser = createParser('se_listings.xml', seProgrammes);
 
 
     euParser.on('end', function (){
@@ -68,6 +70,10 @@ test('XMLTV Parsing', function (t)    {
         t.deepEqual(itProgrammes[1533].country,
             ['ITALIA'],
             'Parsed country'
+        );
+        t.deepEqual(itProgrammes[1533].rating,
+            [ {system: 'it', value: '1' }],
+            'Parsed ratings'
         );
     });
 });
