@@ -1,7 +1,7 @@
 var fs = require('fs');
 var test = require('tape');
 
-var XMLTVParser = require('../lib/xmltv.js');
+var xmltv = require('../lib/xmltv.js');
 
 /**
  * Starts reading and parsing the file from the test folder. Returns the xmltv
@@ -9,7 +9,7 @@ var XMLTVParser = require('../lib/xmltv.js');
  */
 function createParser(xmlName, programmeArray) {
     var input = fs.createReadStream(__dirname + '/' + xmlName);
-    var parser = new XMLTVParser();
+    var parser = new xmltv.Parser();
     input.pipe(parser);
 
     parser.on('programme', function (programme) {
