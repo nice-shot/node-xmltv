@@ -76,15 +76,6 @@ test('XMLTV Parsing', function (t)    {
         t.equal(guideProgrammes[21].getSeason(), 5, 'getSeason method works');
     });
 
-    // guideParser.on('programme', function (programme) {
-    //     if (programme.episodeNum.length !== 0) {
-    //         console.log(Array(40).join('*'));
-    //         console.log(guideProgrammes.indexOf(programme));
-    //         console.log(programme.episodeNum);
-    //         console.log(Array(40).join('*'));
-    //     }
-    // });
-
     itParser.on('end', function () {
         t.deepEqual(itProgrammes[1533].country,
             ['ITALIA'],
