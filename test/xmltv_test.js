@@ -20,7 +20,7 @@ function createParser(xmlName, programmeArray) {
 }
 
 test('XMLTV Parsing', function (t)    {
-    t.plan(19);
+    t.plan(20);
     var euProgrammes = [];
     var guideProgrammes = [];
     var itProgrammes = [];
@@ -36,6 +36,7 @@ test('XMLTV Parsing', function (t)    {
         t.equal(firstProgramme.getSeason('0.1/3.'), 1, 'getSeason with data');
         t.equal(firstProgramme.getSeason('.4.0'), null, 'getSeason empty');
         t.equal(firstProgramme.getSeason('4.2'), null, 'getSeason bad format');
+        t.equal(euProgrammes[30].getSeason(), null, 'getSeason method with no xmltv_ns');
 
         t.deepEqual(firstProgramme.start,
             new Date('2015-06-03T02:50:00+02:00'),
