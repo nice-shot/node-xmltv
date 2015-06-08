@@ -1,51 +1,52 @@
 {
-    "name": "xmltv",
-    "description": "An XMLTV format reader",
-    "version": "0.1.0",
-    "homepage": "https://github.com/nice-shot/node-xmltv",
-    "contributors": [
-        {
-            "name": "Lionel Martin",
-            "email": "lionel@lionelmartin.eu"
-        },
-        {
-            "name": "Nadav Sheffer",
-            "email": "shefferu@gmail.com"
-        }
-    ],
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/nice-shot/node-xmltv.git"
+  "name": "xmltv",
+  "description": "An XMLTV format reader",
+  "version": "0.1.0",
+  "homepage": "https://github.com/nice-shot/node-xmltv",
+  "contributors": [
+    {
+      "name": "Lionel Martin",
+      "email": "lionel@lionelmartin.eu"
     },
-    "bugs": {
-        "url": "https://github.com/nice-shot/node-xmltv/issues"
-    },
-    "licenses": [
-        {
-            "type": "MIT",
-            "url": "https://github.com/nice-shot/node-xmltv/blob/master/LICENSE-MIT"
-        }
-    ],
-    "main": "lib/xmltv",
-    "scripts": {
-        "test": "grunt",
-        "coverage": "istanbul cover test/xmltv_test.js"
-    },
-    "keywords": [
-        "xmltv",
-        "epg",
-        "television"
-    ],
-    "devDependencies": {
-        "grunt": "^0.4.5",
-        "grunt-cli": "^0.1.13",
-        "grunt-contrib-jshint": "^0.11.2",
-        "grunt-tape": "0.0.2",
-        "istanbul": "^0.3.14"
-    },
-    "dependencies": {
-        "lodash": "^3.9.3",
-        "moment": "^2.10.3",
-        "sax": "^1.1.1"
+    {
+      "name": "Nadav Sheffer",
+      "email": "shefferu@gmail.com"
     }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nice-shot/node-xmltv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nice-shot/node-xmltv/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/nice-shot/node-xmltv/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/xmltv",
+  "scripts": {
+    "test": "grunt",
+    "coverage": "istanbul cover test/xmltv_test.js"
+  },
+  "keywords": [
+    "xmltv",
+    "epg",
+    "television"
+  ],
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-tape": "0.0.2",
+    "istanbul": "^0.3.14",
+    "tape": "^4.0.0"
+  },
+  "dependencies": {
+    "lodash": "^3.9.3",
+    "moment": "^2.10.3",
+    "sax": "^1.1.1"
+  }
 }
