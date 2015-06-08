@@ -4,7 +4,7 @@ An [XMLTV](http://wiki.xmltv.org/index.php/Main_Page) format reader based on sax
 
 ## Installation
 
-~~`npm install xmltv`~~ (Currently not uploaded to npm)
+`npm install xmltv`
 
 ## Getting Started
 The module expoeses an XMLTV format parser class. This class is a writable stream so
