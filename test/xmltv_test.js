@@ -19,6 +19,33 @@ function createParser(xmlName, programmeArray) {
     return parser;
 }
 
+test('XMLTV Additional Methods', function (t) {
+    var parser = new xmltv.Parser();
+    t.deepEqual(
+        parser.parseDate('20150506120043 +0200'),
+        new Date('2015-05-06T12:00:43+02:00'),
+        'default parseDate full format'
+    );
+    t.deepEqual(
+        parser.parseDate('201505061200 +0200'),
+        null,
+        'default parseDate missing seconds'
+    );
+    parser = new xmltv.Parser({ timeFmt: 'YYYYMMDDHHmm Z'});
+    t.deepEqual(
+        parser.parseDate('20150506120043 +0200'),
+        null,
+        'default parseDate full format'
+    );
+    t.deepEqual(
+        parser.parseDate('201505061200 +0200'),
+        new Date('2015-05-06T12:00:00+02:00'),
+        'default parseDate missing seconds'
+    );
+
+    t.end();
+});
+
 test('XMLTV Parsing', function (t)    {
     t.plan(20);
     var euProgrammes = [];
