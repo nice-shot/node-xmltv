@@ -31,7 +31,20 @@ parser.on('programme', function (programme) {
 It also emits an `end` event when it finishes reading the XML.
 
 ## xmltv.Parser
-This is the main parser class. It has the following attributes:
+This is the main parser class. When creating it you can pass an optional options
+object with the following parameters:
+* `timeFmt` (String) - Time format to use to parse the start and end dates for 
+  each programme. Any format that [moment](http://momentjs.com) accepts is valid.
+  Default is the standard XMLTV format: YYYYMMDDHHmmss Z (e.g: 20150603025000 +0200).
+* `strictTime` (Boolean) - Whether the dates shoule be parsed in moment's strict
+  mode or loosly.
+
+So you can also declare it like so:
+```javascript
+var parser = new xmltv.Parser({ timeFmt: 'YYYYMMDD', strictTime: false });
+```
+
+The parser has the following attributes:
 * `xmlParser` - The underlying sax.Parser object. Everything written to the parser
   is piped to it.
 * `parseDate(date)` - A small helper method to parse date attributes from the
@@ -71,6 +84,7 @@ For example the following XMLTV programme:
   <country>EU</country>
 </programme>
 ```
+
 Will create a JS object that looks like this JSON:
 ```json
 {
@@ -98,7 +112,7 @@ number.
 
 If you had the Programme object from the above parsing, running `getSeason()` will
 return: `1`.
-For more information about the xmltv_ns format check the [xmltv dtd](http://xmltv.cvs.sourceforge.net/viewvc/xmltv/xmltv/xmltv.dtd)
+For more information about the xmltv_ns format check the [xmltv dtd](http://xmltv.cvs.sourceforge.net/viewvc/xmltv/xmltv/xmltv.dtd).
 
 ## Missing stuff
 The following are attributes covered in the [xmltv dtd](http://xmltv.cvs.sourceforge.net/viewvc/xmltv/xmltv/xmltv.dtd)
