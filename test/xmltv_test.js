@@ -20,7 +20,7 @@ function createParser(xmlName, programmeArray) {
 }
 
 test('XMLTV Parsing', function (t)    {
-    t.plan(15);
+    t.plan(19);
     var euProgrammes = [];
     var guideProgrammes = [];
     var itProgrammes = [];
@@ -35,6 +35,7 @@ test('XMLTV Parsing', function (t)    {
         // getSeason checks:
         t.equal(firstProgramme.getSeason('0.1/3.'), 1, 'getSeason with data');
         t.equal(firstProgramme.getSeason('.4.0'), null, 'getSeason empty');
+        t.equal(firstProgramme.getSeason('4.2'), null, 'getSeason bad format');
 
         t.deepEqual(firstProgramme.start,
             new Date('2015-06-03T02:50:00+02:00'),
@@ -64,7 +65,10 @@ test('XMLTV Parsing', function (t)    {
     });
 
     guideParser.on('end', function () {
-        t.equal(guideProgrammes[0].length, 85 * 60, 'Parsed length');
+        t.equal(guideProgrammes[0].length, 85 * 60, 'Parsed length - mintues');
+        t.equal(guideProgrammes[1].length, 35, 'Parsed length - seconds');
+        t.equal(guideProgrammes[2].length, 60 * 60 * 60, 'Parsed length - hours');
+        t.equal(guideProgrammes[3].length, null, 'Parsed length - bad units is null');
         t.deepEqual(guideProgrammes[17].episodeNum,
             [ { system: 'xmltv_ns', value: '.8/12.'}],
             'Parsed episode-num'

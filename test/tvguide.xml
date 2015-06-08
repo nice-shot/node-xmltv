@@ -58,7 +58,7 @@
 		<credits><director>Jürgen Erbacher</director><director>Jan Frerichs</director></credits>
 		<date>2013</date>
 		<category lang="fr">Documentaire</category>
-                <length units="minutes">35</length>
+                <length units="seconds">35</length>
 		<video><aspect>16:9</aspect></video>
         </programme>
 <programme start="20130704110000 +0200" stop="20130704120000 +0200" channel="ART1.kazer.org">
@@ -69,7 +69,7 @@
 		<credits><director>Laurent Martein</director><director>Xavier Lefebvre</director></credits>
 		<date>2011</date>
 		<category lang="fr">Documentaire</category>
-                <length units="minutes">60</length>
+                <length units="hours">60</length>
 		<video><aspect>16:9</aspect></video>
         </programme>
 <programme start="20130704120000 +0200" stop="20130704123000 +0200" channel="ART1.kazer.org">
@@ -80,7 +80,7 @@
 		<credits><director>Alix François Meier</director></credits>
 		<date>2005</date>
 		<category lang="fr">Documentaire</category>
-                <length units="minutes">30</length>
+                <length units="bla">30</length>
 		<video><aspect>16:9</aspect></video>
         </programme>
 <programme start="20130704123000 +0200" stop="20130704124000 +0200" channel="ART1.kazer.org">

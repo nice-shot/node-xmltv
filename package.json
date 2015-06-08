@@ -28,7 +28,8 @@
   ],
   "main": "lib/xmltv",
   "scripts": {
-    "test": "grunt"
+    "test": "grunt",
+    "coverage": "grunt coverage"
   },
   "keywords": [
     "xmltv",
@@ -39,6 +40,7 @@
     "grunt": "^0.4.5",
     "grunt-cli": "^0.1.13",
     "grunt-contrib-jshint": "^0.11.2",
+    "grunt-istanbul": "^0.5.0",
     "grunt-tape": "0.0.2"
   },
   "dependencies": {
