@@ -7,7 +7,7 @@ An [XMLTV](http://wiki.xmltv.org/index.php/Main_Page) format reader based on sax
 ~~`npm install xmltv`~~ (Currently not uploaded to npm)
 
 ## Getting Started
-The module expoeses the XMLTVParser class. This class is a writable stream so
+The module expoeses an XMLTV format parser class. This class is a writable stream so
 you can just pipe XMLTV data to it:
 
 ```javascript
@@ -79,14 +79,14 @@ Will create a JS object that looks like this JSON:
     "title":  ["Die Rückkehr bedrohter Tierarten"],
     "desc": ["Zum Nisten benötigt der europäische Rosaflamingo Brackwasser und kleine, unberührte Inseln."],
     "category": ["series", "Documentary"],
-    "episodeNum": [ { "system": "xmltv_ns", "value": ". . 0/3" }],
+    "episodeNum": [ { "system": "xmltv_ns", "value": "0.4.0/3" }],
     "length": 1620,
     "country": ["EU"],
     "rating": []
 }
 ```
 
-Additionally the programme object has a few methods for additional parsing:
+The programme object has a few methods for additional parsing:
 
 ### Programme.getSeason([episodeNumber])
 If this method receives an episodeNumber in the xmltv_ns format it will parse the
@@ -112,6 +112,6 @@ that the module currently doesn't parse:
 * `audio` - Quality and additional technical details about the audio
 * `previously-shown`
 * `premiere`
-* `last-chance` - Last time the programme is being screened
+* `last-chance` - This is the last time the programme is being screened
 * `new` - First broadcast of a completly new show
 * `review` - Critic reviews
