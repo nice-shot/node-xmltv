@@ -1,5 +1,6 @@
 var fs = require('fs');
 var test = require('tape');
+var moment = require('moment');
 
 var xmltv = require('../lib/xmltv.js');
 
@@ -35,12 +36,18 @@ test('XMLTV Additional Methods', function (t) {
     t.deepEqual(
         parser.parseDate('20150506120043 +0200'),
         null,
-        'default parseDate full format'
+        'custom parseDate full format'
     );
     t.deepEqual(
         parser.parseDate('201505061200 +0200'),
         new Date('2015-05-06T12:00:00+02:00'),
-        'default parseDate missing seconds'
+        'custom parseDate missing seconds'
+    );
+    parser = new xmltv.Parser({ strictTime: false });
+    t.deepEqual(
+        parser.parseDate('201505061200 +0200'),
+        moment('2015-05-06T12:00:02').toDate(),
+        'strict parseDate missing seconds'
     );
 
     t.end();
