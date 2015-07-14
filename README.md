@@ -50,6 +50,12 @@ The parser has the following attributes:
 * `parseDate(date)` - A small helper method to parse date attributes from the
   standard XMLTV format - YYYYMMDDHHmmss Z (e.g: 20150603025000 +0200).
 
+It emits the following events:
+* `programme` - The parsed programme record. Argument is the xmltv.Programme.
+* `error` - Emits when an error is encountered while parsing the XML. Argument
+  is the Error object.
+* `end` - When the parser is done.
+
 ## xmltv.Programme
 This is the object emitted in each `programme` event. It has the following attributes:
 * `channel` (String) - Channel id
