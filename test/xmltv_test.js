@@ -1,4 +1,5 @@
 var fs = require('fs');
+var path = require('path');
 var test = require('tape');
 var moment = require('moment');
 
@@ -8,8 +9,8 @@ var xmltv = require('../lib/xmltv.js');
  * Starts reading and parsing the file from the test folder. Returns the xmltv
  * parser. Also appends all the programmes data to the given array
  */
-function createParser(xmlName, programmeArray) {
-    var input = fs.createReadStream(__dirname + '/' + xmlName);
+function createParser (xmlName, programmeArray) {
+    var input = fs.createReadStream(path.join(__dirname, xmlName));
     var parser = new xmltv.Parser();
     input.pipe(parser);
 
@@ -53,7 +54,7 @@ test('XMLTV Additional Methods', function (t) {
     t.end();
 });
 
-test('XMLTV Parsing', function (t)    {
+test('XMLTV Parsing', function (t) {
     t.plan(20);
     var euProgrammes = [];
     var guideProgrammes = [];
@@ -123,3 +124,17 @@ test('XMLTV Parsing', function (t)    {
     });
 });
 
+test('XMLTV Error Handling', function (t) {
+    var numOfErrors = 0;
+    var parser = new xmltv.Parser();
+    parser.on('error', function (err) {
+            t.ok(err instanceof Error, 'Got error');
+            numOfErrors++;
+        })
+        .on('end', function () {
+            t.equal(numOfErrors, 3, 'Got expected number of errors');
+            t.end();
+        })
+    ;
+    parser.end('<Bla>Invalid XML</bli>');
+});
