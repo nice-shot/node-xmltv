@@ -1,7 +1,7 @@
 {
   "name": "xmltv",
   "description": "An XMLTV format reader",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "homepage": "https://github.com/nice-shot/node-xmltv",
   "contributors": [
     {
