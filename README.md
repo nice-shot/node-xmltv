@@ -103,7 +103,8 @@ Will create a JS object that looks like this JSON:
     "episodeNum": [ { "system": "xmltv_ns", "value": "0.4.0/3" }],
     "length": 1620,
     "country": ["EU"],
-    "rating": []
+    "rating": [],
+    "credits": [ { "type": "producer", "role": null, "name": "Laurent Charbonnier" } ]
 }
 ```
 
@@ -123,7 +124,6 @@ For more information about the xmltv_ns format check the [xmltv dtd](http://xmlt
 ## Missing stuff
 The following are attributes covered in the [xmltv dtd](http://xmltv.cvs.sourceforge.net/viewvc/xmltv/xmltv/xmltv.dtd)
 that the module currently doesn't parse:
-* `credits` - List of crew members
 * `subtitles` - Information about the subtitle's language
 * `date` - Programme air date
 * `star-rating` - Review ratings
