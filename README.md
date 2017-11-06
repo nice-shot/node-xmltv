@@ -1,7 +1,7 @@
 # xmltv
 
 An [XMLTV](http://wiki.xmltv.org/index.php/Main_Page) format reader based on sax.
-Cloned from [LionelMartin](https://github.com/LionelMartin) original parser.
+Cloned from [nice-shot](https://github.com/nice-shot/node-xmltv) which originally cloned from [LionelMartin](https://github.com/LionelMartin) original parser.
 
 ## Installation
 
