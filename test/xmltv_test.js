@@ -55,7 +55,7 @@ test('XMLTV Additional Methods', function (t) {
 });
 
 test('XMLTV Parsing', function (t) {
-    t.plan(21);
+    t.plan(22);
     var euProgrammes = [];
     var guideProgrammes = [];
     var itProgrammes = [];
@@ -113,6 +113,10 @@ test('XMLTV Parsing', function (t) {
             { type: 'actor', role: 'le soldat qui boit', name: 'Paul Préboist' },
             { type: 'actor', role: 'un croque-mort', name: 'Pierre Vernier' } ],
             'Parsed credits'
+        );
+        t.deepEqual(euProgrammes[0].date,
+            1964,
+            'Parsed year'
         );
     });
 
