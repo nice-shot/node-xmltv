@@ -55,7 +55,7 @@ test('XMLTV Additional Methods', function (t) {
 });
 
 test('XMLTV Parsing', function (t) {
-    t.plan(20);
+    t.plan(22);
     var euProgrammes = [];
     var guideProgrammes = [];
     var itProgrammes = [];
@@ -97,6 +97,26 @@ test('XMLTV Parsing', function (t) {
         t.deepEqual(euProgrammes[1].category,
             ['movie', 'Documentary'],
             'Parsed category'
+        );
+        t.deepEqual(firstProgramme.credits, [ { type: 'director', role: null, name: 'Henri Verneuil' },
+            { type: 'actor', role: 'Julien Maillat', name: 'Jean-Paul Belmondo' },
+            { type: 'actor', role: 'Jeanne', name: 'Catherine Spaak' },
+            { type: 'actor', role: 'Pinot', name: 'Georges Géret' },
+            { type: 'actor', role: 'Pierson', name: 'Jean-Pierre Marielle' },
+            { type: 'actor', role: 'Alexandre', name: 'François Périer' },
+            { type: 'actor', role: 'Dhéry', name: 'Pierre Mondy' },
+            { type: 'actor', role: 'le capitaine Robinson', name: 'Ronald Howard' },
+            { type: 'actor', role: 'le caporal-chef réceptionniste', name: 'Dominique Zardi' },
+            { type: 'actor', role: null, name: 'la femme d\'Atkins)' },
+            { type: 'actor', role: 'Paul', name: 'Christian Barbier' },
+            { type: 'actor', role: 'le gouape', name: 'Jean-Paul Roussillon' },
+            { type: 'actor', role: 'le soldat qui boit', name: 'Paul Préboist' },
+            { type: 'actor', role: 'un croque-mort', name: 'Pierre Vernier' } ],
+            'Parsed credits'
+        );
+        t.deepEqual(euProgrammes[0].date,
+            1964,
+            'Parsed year'
         );
     });
 
